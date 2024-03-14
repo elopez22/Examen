@@ -1,0 +1,15 @@
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\bin\Debug\net6.0\App.Front.Examen.BusinessLogic.deps.json
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\bin\Debug\net6.0\App.Front.Examen.BusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\bin\Debug\net6.0\App.Front.Examen.BusinessLogic.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\bin\Debug\net6.0\App.Front.Examen.Models.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\bin\Debug\net6.0\App.Front.Examen.Models.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Fron.D0B78F3D.Up2Date
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\refint\App.Front.Examen.BusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\App.Front.Examen.BusinessLogic.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Negocio\obj\Debug\net6.0\ref\App.Front.Examen.BusinessLogic.dll

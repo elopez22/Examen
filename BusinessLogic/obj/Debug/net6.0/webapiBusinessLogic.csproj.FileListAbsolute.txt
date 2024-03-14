@@ -1,0 +1,15 @@
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\bin\Debug\net6.0\webapiBusinessLogic.deps.json
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\bin\Debug\net6.0\webapiBusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\bin\Debug\net6.0\webapiBusinessLogic.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\bin\Debug\net6.0\webapi.DataAcces.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\bin\Debug\net6.0\webapi.DataAcces.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBu.0E158EF8.Up2Date
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\refint\webapiBusinessLogic.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\webapiBusinessLogic.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\BusinessLogic\obj\Debug\net6.0\ref\webapiBusinessLogic.dll

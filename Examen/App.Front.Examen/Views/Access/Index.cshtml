@@ -1,0 +1,68 @@
+﻿@model User 
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<form asp-controller="Access" asp-action="Index" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
+    <section>
+        <div class="row g-0">
+            <div class="col-lg-7 d-none d-lg-block">
+                <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+
+                    <div class="">
+                        <div class="img-1 min-vh-100 active">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5 class="font-weight-bold"></h5>
+                                <a class="text-muted text-decoration-none"></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-12 bg-dark d-flex flex-column align-items-end min-vh-100">
+
+
+
+                <div class="align-self-center w-100 px-lg-5 py-lg-4 p-4">
+                    <h1 class="font-weight-bold mb-4 text-center">
+                        <span class="text-gray">Examen</span><span id="title-transport" class="text-$blue-700"> </span>
+                    </h1>
+                    <h5 class="font-weight-bold mb-4 text-center text-info">Ingresar credenciales</h5>
+                    <div class="danger">
+                        @ViewBag.Error
+                    </div>
+
+                    <div class="input-group mb-4">
+                        <input type="text" ID="User" asp-for="UserName" class="form-control" placeholder="Usuario" MaxLength="13" />
+                    </div>
+                  
+                    <input asp-for="Pais" value="" type="hidden" />
+                    <input asp-for="Name" value="" type="hidden" />
+                    <input asp-for="Id" value="0" type="hidden" />
+                    <div class="input-group mb-4">
+                        <input type="password" ID="Pass" asp-for="Pws" class="form-control" placeholder="Password" style="font-family:Arial" />
+
+                    </div>
+
+
+                    <Button ID="btnlogin" onclick="this.disabled" type="submit" class="btn btn-primary w-100" Text="Iniciar Sesión"> Ingresar</Button>
+
+                  
+
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </section>
+    <!-- ////////////////////////////////////////////////////////////////////////////-->
+    <!-- BEGIN VENDOR JS-->
+
+</form>
+

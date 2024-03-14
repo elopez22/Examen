@@ -1,0 +1,11 @@
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\bin\Debug\net6.0\App.Front.Examen.Models.deps.json
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\bin\Debug\net6.0\App.Front.Examen.Models.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\bin\Debug\net6.0\App.Front.Examen.Models.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\refint\App.Front.Examen.Models.dll
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\App.Front.Examen.Models.pdb
+C:\Users\lopez\OneDrive\Documentos\ExamenAngular\Examen\App.Front.Examen.Models\obj\Debug\net6.0\ref\App.Front.Examen.Models.dll

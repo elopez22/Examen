@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lopez\\OneDrive\\Documentos\\ExamenAngular\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0A6E5B-618E-4F08-BDE9-F392B40C6FCF}|App.Front.Examen\\App.Front.Examen.csproj|c:\\users\\lopez\\onedrive\\documentos\\examenangular\\examen\\app.front.examen\\wwwroot\\js\\controller\\busqueda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A0A6E5B-618E-4F08-BDE9-F392B40C6FCF}|App.Front.Examen\\App.Front.Examen.csproj|solutionrelative:app.front.examen\\wwwroot\\js\\controller\\busqueda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Busqueda.js",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Documentos\\ExamenAngular\\Examen\\App.Front.Examen\\wwwroot\\js\\Controller\\Busqueda.js",
+              "RelativeDocumentMoniker": "App.Front.Examen\\wwwroot\\js\\Controller\\Busqueda.js",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Documentos\\ExamenAngular\\Examen\\App.Front.Examen\\wwwroot\\js\\Controller\\Busqueda.js",
+              "RelativeToolTip": "App.Front.Examen\\wwwroot\\js\\Controller\\Busqueda.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-14T13:56:49.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
